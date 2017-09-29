@@ -25,3 +25,14 @@
 + Bottom of website is mirrored image of logo
 ***
 ![alt text](https://github.com/rachaelcortese/IDM221/blob/master/Screen%20Shot%202017-09-29%20at%201.42.38%20PM.png)
+
+## [*i-D*](https://i-d.vice.com/en_us)
+***
+![alt text](https://github.com/rachaelcortese/IDM221/blob/master/Screen%20Shot%202017-09-29%20at%201.50.04%20PM.png)
+***
++ The opening screen is the newest/most trending article with a large image
++ Simple interface, clean lines
++ Minimal
++ Content is organized in a grid
+***
+![alt text](https://github.com/rachaelcortese/IDM221/blob/master/Screen%20Shot%202017-09-29%20at%201.50.25%20PM.png)
