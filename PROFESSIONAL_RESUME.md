@@ -21,9 +21,8 @@ Minor in Interactive Digital Media
 
 **Experience**
 
-**PUBLIC RELATIONS INTERN** | BRESLOW PARTNERS – Philadelphia, PA
-
-April 2017 – Present
+**PUBLIC RELATIONS INTERN** 
+**BRESLOW PARTNERS** – Philadelphia, PA [April 2017 - Present]
 +	Pitched local media and TV Segments
 +	Developed news stories
 +	Developed email campaigns for several clients
@@ -33,8 +32,10 @@ April 2017 – Present
 +	Created brand messaging
 
 **HOSTESS** 
-+ POD, Philadelphia, PA [November 2015 - March 2017]
-+ LA PEG, Philadelphia, PA [May 2017 - Present]
+
+**POD**, Philadelphia, PA [November 2015 - March 2017]
+
+**LA PEG**, Philadelphia, PA [May 2017 - Present]
 
 +	Maintained professional tone at all times, including peak rush hours
 +	Facilitated prompt and accurate seating of all guests
