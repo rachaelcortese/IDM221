@@ -22,6 +22,7 @@ Minor in Interactive Digital Media
 **Experience**
 
 **PUBLIC RELATIONS INTERN** 
+
 **BRESLOW PARTNERS** – Philadelphia, PA [April 2017 - Present]
 +	Pitched local media and TV Segments
 +	Developed news stories
@@ -33,21 +34,21 @@ Minor in Interactive Digital Media
 
 **HOSTESS** 
 
-**POD**, Philadelphia, PA [November 2015 - March 2017]
-
 **LA PEG**, Philadelphia, PA [May 2017 - Present]
 
+**POD**, Philadelphia, PA [November 2015 - March 2017]
 +	Maintained professional tone at all times, including peak rush hours
 +	Facilitated prompt and accurate seating of all guests
 +	Fulfilled customer requests and provided a satisfactory experience
 
 
-sales associate                                                       		pennyweights – NEW canaan, CT
-October 2014 – December 2016
-4	Assessed client needs and responded to client inquiries about merchandise
-4	Created a positive, welcoming environment for clients
-4	Organized and rotated merchandise to meet current trends
-4	Recommended merchandise based on client’s needs and wants
+**SALES ASSOCIATE**                                                      		
+**PENNYWEIGHTS** – New Canaan, CT [October 2014 - December 2016]
+
++ Assessed client needs and responded to client inquiries about merchandise
++	Created a positive, welcoming environment for clients
++	Organized and rotated merchandise to meet current trends
++	Recommended merchandise based on client’s needs and wants
 
 
 Activities 
