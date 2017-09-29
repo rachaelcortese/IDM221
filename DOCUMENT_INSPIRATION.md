@@ -30,7 +30,7 @@
 ***
 ![alt text](https://github.com/rachaelcortese/IDM221/blob/master/Screen%20Shot%202017-09-29%20at%201.50.04%20PM.png)
 ***
-+ The opening screen is the newest/most trending article with a large image
++ The opening screen is the newest/top trending article with a large image
 + Simple interface, clean lines
 + Minimal
 + Content is organized in a grid
