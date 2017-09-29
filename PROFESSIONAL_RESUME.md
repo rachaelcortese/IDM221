@@ -18,6 +18,7 @@ Minor in Interactive Digital Media
 +	The National Society of Collegiate Scholars, April 2016-Present
 +	Dean’s List, Spring 2016, Fall 2016, Winter 2017
 +	Member of the Pennoni Honors College / Honors Program
+***
 
 **Experience**
 
@@ -32,6 +33,8 @@ Minor in Interactive Digital Media
 +	Managed several social media accounts
 +	Created brand messaging
 
+***
+
 **HOSTESS** 
 
 **LA PEG**, Philadelphia, PA [May 2017 - Present]
@@ -40,9 +43,10 @@ Minor in Interactive Digital Media
 +	Maintained professional tone at all times, including peak rush hours
 +	Facilitated prompt and accurate seating of all guests
 +	Fulfilled customer requests and provided a satisfactory experience
+***
 
+**SALES ASSOCIATE**  
 
-**SALES ASSOCIATE**                                                      		
 **PENNYWEIGHTS** – New Canaan, CT [October 2014 - December 2016]
 
 + Assessed client needs and responded to client inquiries about merchandise
@@ -50,10 +54,10 @@ Minor in Interactive Digital Media
 +	Organized and rotated merchandise to meet current trends
 +	Recommended merchandise based on client’s needs and wants
 
-
-Activities 
-4	Vice President, DrexelVeg, September 2016 -Present 
-4	Member, Alpha Sigma Alpha, October 2016-Present
-4	Member, Drexel Public Relations Student Society of America (PRSSA), October 2016-Present
-4	Member, Drexel Mastering Cosmetics, April 2016-Present 
+***
+**Activities**
++	Vice President, DrexelVeg, [September 2016 - Present]
++	Member, Alpha Sigma Alpha, [October 2016 - Present]
++	Member, Drexel Public Relations Student Society of America (PRSSA), [October 2016 - Present]
++	Member, Drexel Mastering Cosmetics, [April 2016 - Present] 
 
