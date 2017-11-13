@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>this is rachael cortese's portfolio.</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+ <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,600i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+	<div class="navbar">
+    <nav>
+      <ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">MY WORK</a></li>
+        <li><a href="#">CONTACT ME</a></li>
+        <li><a href="#"><i style="font-size:24px" class="fa">&#xf002;</i></a></li>
+      </ul>
+    </nav>
+  </div>
+
+<div class="topblock">
+  <H1>THIS IS <br>
+  RACHAEL<br>
+  CORTESE'S<br>
+  PORTFOLIO.</H1>
+</div>
+
+
+  <div class="row">
+    <div class="column">
+      <h2> MY WORK</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+       <div class="column">
+      <h2> ABOUT</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+    
+
+
+<footer>
+  RACHAEL CORTESE 
+</footer>
+</body>
+</html>
+
+
