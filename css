@@ -1,0 +1,95 @@
+
+body{ font-size:16px; 
+margin:0;}
+
+
+.navbar ul {
+position: fixed;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    background-image: url('blackmarble.jpg');
+    padding: 20px;
+
+	text-align:right;
+
+ 
+}
+
+
+.navbar li{
+	display: inline;
+
+
+}
+
+.navbar li a{
+    color: white;
+    /*margin-right:1.25em;*/
+    text-decoration: none;
+    padding: 10px;
+    font-style:italic;
+    font-family: 'Crimson Text', serif;
+    font-size:1.25em;
+
+    
+}
+
+.navbar li a:hover{ color:black; }
+/* is it possible to make a gold effect? */
+
+
+.topblock {
+/*background-image: url('blackmarble.jpg');*/
+background-color: black;
+background-size: contain;
+margin:6.25em 1.25em 0;
+color:white;
+font-family: 'Open Sans', sans-serif;
+padding:20px;
+
+
+}
+
+
+
+.column {
+	float: left;
+    width: 33.33%;
+    padding: 40px;
+    margin:0;
+}
+
+.column h2 {
+	font-family:'Crimson Text', serif;
+	font-style:italic;
+	text-align: center;
+}
+
+.column p{
+	font-size:1em;
+}
+
+footer{
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url('blackmarble.jpg');
+    color: white;
+    font-family: 'Crimson Text', serif;
+    font-style: italic;
+    text-align: center;
+    padding:10px;
+
+}
+
+/*.boxy {
+	box-sizing: border-box;
+	border:5px solid black;
+	top-margin:200px;
+	width: 100%;
+	padding:200px;
+}*/ 
